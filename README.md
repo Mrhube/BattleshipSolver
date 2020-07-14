@@ -1,0 +1,1 @@
+A WIP program to solve battleship solitaire puzzles and assign them a difficulty level.
